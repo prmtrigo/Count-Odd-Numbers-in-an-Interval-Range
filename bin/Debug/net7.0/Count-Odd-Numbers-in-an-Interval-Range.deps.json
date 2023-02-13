@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Count-Odd-Numbers-in-an-Interval-Range/1.0.0": {
+        "runtime": {
+          "Count-Odd-Numbers-in-an-Interval-Range.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Count-Odd-Numbers-in-an-Interval-Range/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Count-Odd-Numbers-in-an-Interval-Range\bin\Debug\net7.0\Count-Odd-Numbers-in-an-Interval-Range.exe
+C:\Users\trigo\Programação\C#\Count-Odd-Numbers-in-an-Interval-Range\bin\Debug\net7.0\Count-Odd-Numbers-in-an-Interval-Range.deps.json
+C:\Users\trigo\Programação\C#\Count-Odd-Numbers-in-an-Interval-Range\bin\Debug\net7.0\Count-Odd-Numbers-in-an-Interval-Range.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Count-Odd-Numbers-in-an-Interval-Range\bin\Debug\net7.0\Count-Odd-Numbers-in-an-Interval-Range.dll
+C:\Users\trigo\Programação\C#\Count-Odd-Numbers-in-an-Interval-Range\bin\Debug\net7.0\Count-Odd-Numbers-in-an-Interval-Range.pdb
+C:\Users\trigo\Programação\C#\Count-Odd-Numbers-in-an-Interval-Range\obj\Debug\net7.0\Count-Odd-Numbers-in-an-Interval-Range.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Count-Odd-Numbers-in-an-Interval-Range\obj\Debug\net7.0\Count-Odd-Numbers-in-an-Interval-Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Count-Odd-Numbers-in-an-Interval-Range\obj\Debug\net7.0\Count-Odd-Numbers-in-an-Interval-Range.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Count-Odd-Numbers-in-an-Interval-Range\obj\Debug\net7.0\Count-Odd-Numbers-in-an-Interval-Range.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Count-Odd-Numbers-in-an-Interval-Range\obj\Debug\net7.0\Count-Odd-Numbers-in-an-Interval-Range.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Count-Odd-Numbers-in-an-Interval-Range\obj\Debug\net7.0\Count-Odd-Numbers-in-an-Interval-Range.dll
+C:\Users\trigo\Programação\C#\Count-Odd-Numbers-in-an-Interval-Range\obj\Debug\net7.0\refint\Count-Odd-Numbers-in-an-Interval-Range.dll
+C:\Users\trigo\Programação\C#\Count-Odd-Numbers-in-an-Interval-Range\obj\Debug\net7.0\Count-Odd-Numbers-in-an-Interval-Range.pdb
+C:\Users\trigo\Programação\C#\Count-Odd-Numbers-in-an-Interval-Range\obj\Debug\net7.0\Count-Odd-Numbers-in-an-Interval-Range.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Count-Odd-Numbers-in-an-Interval-Range\obj\Debug\net7.0\ref\Count-Odd-Numbers-in-an-Interval-Range.dll
